@@ -1,3 +1,6 @@
+# Ignore la configuration de VS Code
+*.code-workspace
+
 # Logs
 logs
 *.log
